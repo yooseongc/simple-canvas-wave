@@ -1,0 +1,17 @@
+{
+  "name": "simple-canvas-wave",
+  "version": "1.0.0",
+  "description": "make simple wave using html canvas",
+  "main": "app.js",
+  "scripts": {
+    "http-server": "http-server",
+    "live-server": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yooseong Choi",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "live-server": "^1.2.1"
+  }
+}
